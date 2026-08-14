@@ -1,7 +1,7 @@
 {
     "name": "Le jeu d'Alicia",
     "short_name": "Jeu d'Alicia",
-    "start_url": "./indexn.html",
+    "start_url": "./index.html",
     "display": "standalone",
     "background_color": "#ffd6e7",
     "theme_color": "#ffd6e7",
